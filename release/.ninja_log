@@ -1,0 +1,11 @@
+# ninja log v5
+1	777	7317236628937962	ContactManager_autogen/timestamp	ac2df63500d8f9bb
+1	777	7317236628937962	ContactManager_autogen/mocs_compilation.cpp	ac2df63500d8f9bb
+1	777	7317236628937962	C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Release/ContactManager_autogen/timestamp	ac2df63500d8f9bb
+1	777	7317236628937962	C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Release/ContactManager_autogen/mocs_compilation.cpp	ac2df63500d8f9bb
+783	3218	7317236653863994	CMakeFiles/ContactManager.dir/newcontactwidget.cpp.obj	52ae0b2844f454f4
+797	3232	7317236653955893	CMakeFiles/ContactManager.dir/contactmanager.cpp.obj	5ae1564fa236cb61
+792	3772	7317236659452003	CMakeFiles/ContactManager.dir/main.cpp.obj	fb7ab836f236e5fa
+778	3886	7317236660642593	CMakeFiles/ContactManager.dir/ContactManager_autogen/mocs_compilation.cpp.obj	af0f0637156749ed
+787	4159	7317236663384894	CMakeFiles/ContactManager.dir/mainwindow.cpp.obj	becf6b11c9180dce
+4159	4379	7317236665581222	ContactManager.exe	6b37689b1cd6ce64

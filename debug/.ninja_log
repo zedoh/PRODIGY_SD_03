@@ -1,0 +1,38 @@
+# ninja log v5
+18	918	7317211542750239	ContactManager_autogen/timestamp	e7d007e6c038c260
+1715	4989	7313726930018484	CMakeFiles/ContactManager.dir/contactsmanager.cpp.obj	cefd25beedb635d9
+18	918	7317211542750239	ContactManager_autogen/mocs_compilation.cpp	e7d007e6c038c260
+18	918	7317211542750239	C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ContactManager_autogen/timestamp	e7d007e6c038c260
+919	3476	7317211569013204	CMakeFiles/ContactManager.dir/main.cpp.obj	52cdadf2039b3376
+18	918	7317211542750239	C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ContactManager_autogen/mocs_compilation.cpp	e7d007e6c038c260
+923	3563	7317211569859991	CMakeFiles/ContactManager.dir/ContactManager_autogen/mocs_compilation.cpp.obj	e1255337cad8b2
+928	3974	7317211573955951	CMakeFiles/ContactManager.dir/mainwindow.cpp.obj	c8d95c8052684dbe
+3974	4276	7317211576938356	ContactManager.exe	eafad49827385ec2
+1063	4063	7317209348304949	CMakeFiles/ContactManager.dir/newcontactwidget.cpp.obj	e206a7dd99e16516
+1068	3780	7317209345463292	CMakeFiles/ContactManager.dir/contactmanager.cpp.obj	e36ffdd8c16772d7
+9	271	7317214010010510	ContactManager_autogen/timestamp	e7d007e6c038c260
+9	271	7317214010010510	ContactManager_autogen/mocs_compilation.cpp	e7d007e6c038c260
+9	271	7317214010010510	C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ContactManager_autogen/timestamp	e7d007e6c038c260
+9	271	7317214010010510	C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ContactManager_autogen/mocs_compilation.cpp	e7d007e6c038c260
+291	3752	7317214044818767	CMakeFiles/ContactManager.dir/mainwindow.cpp.obj	c8d95c8052684dbe
+3753	4075	7317214048003864	ContactManager.exe	eafad49827385ec2
+18	221	7317217180907831	ContactManager_autogen/timestamp	e7d007e6c038c260
+18	221	7317217180907831	ContactManager_autogen/mocs_compilation.cpp	e7d007e6c038c260
+18	221	7317217180907831	C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ContactManager_autogen/timestamp	e7d007e6c038c260
+18	221	7317217180907831	C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ContactManager_autogen/mocs_compilation.cpp	e7d007e6c038c260
+238	2466	7317217203369959	CMakeFiles/ContactManager.dir/newcontactwidget.cpp.obj	e206a7dd99e16516
+243	2780	7317217206488187	CMakeFiles/ContactManager.dir/mainwindow.cpp.obj	c8d95c8052684dbe
+2780	3242	7317217211073567	ContactManager.exe	eafad49827385ec2
+18	294	7317218088858105	ContactManager_autogen/timestamp	e7d007e6c038c260
+18	294	7317218088858105	ContactManager_autogen/mocs_compilation.cpp	e7d007e6c038c260
+18	294	7317218088858105	C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ContactManager_autogen/timestamp	e7d007e6c038c260
+18	294	7317218088858105	C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ContactManager_autogen/mocs_compilation.cpp	e7d007e6c038c260
+320	2734	7317218113374802	CMakeFiles/ContactManager.dir/newcontactwidget.cpp.obj	e206a7dd99e16516
+314	3321	7317218119210066	CMakeFiles/ContactManager.dir/mainwindow.cpp.obj	c8d95c8052684dbe
+3321	3614	7317218122108867	ContactManager.exe	eafad49827385ec2
+17	405	7317218710275533	ContactManager_autogen/timestamp	e7d007e6c038c260
+17	405	7317218710275533	ContactManager_autogen/mocs_compilation.cpp	e7d007e6c038c260
+17	405	7317218710275533	C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ContactManager_autogen/timestamp	e7d007e6c038c260
+17	405	7317218710275533	C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ContactManager_autogen/mocs_compilation.cpp	e7d007e6c038c260
+424	3912	7317218745348065	CMakeFiles/ContactManager.dir/mainwindow.cpp.obj	c8d95c8052684dbe
+3913	4253	7317218748718265	ContactManager.exe	eafad49827385ec2

@@ -1,0 +1,9 @@
+C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/ContactManager.dir
+C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/install.dir
+C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/ContactManager_autogen_timestamp_deps.dir
+C:/Programming/projects/Contacts Manager/build-ContactManager-Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/ContactManager_autogen.dir
