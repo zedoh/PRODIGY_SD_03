@@ -8,6 +8,11 @@ A simple and intuitive Qt application for managing contact information.
 - Persist contact data
 
 ## Preview
+<p align="center">
+  <img src="resources/mainwindow.png" alt="Main Window" width="30%">
+  <img src="resources/addnewcontact.png" alt="Add new Contact" width="30%">
+  <img src="resources/contactdetails.png" alt="Contact Details" width="30%">
+</p>
 
 ## Run
 
